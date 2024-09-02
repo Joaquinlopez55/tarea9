@@ -1,5 +1,6 @@
 alert("Hola somos KINEFIT")
 
+console.log ("------------------------")
 let numero1 = 5
 let numero2 = 10
 
