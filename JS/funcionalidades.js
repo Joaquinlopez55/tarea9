@@ -1,4 +1,3 @@
-alert("Hola somos KINEFIT")
 
 console.log ("------------------------")
 let numero1 = 5
